@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skuxblan</h1>
--  🔭 I’m currently working on [Instagram-Auto-Responder](https://github.com/Skuxblan/Instagram-Auto-Responder)
+
+- 🔭 I’m currently working on [Instagram-Auto-Responder](https://github.com/Skuxblan/Instagram-Auto-Responder)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skuxblan?tab=repositories](https://github.com/Skuxblan?tab=repositories)
 
