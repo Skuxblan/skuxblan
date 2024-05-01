@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Instagram-Auto-Responder](https://github.com/Skuxblan/Instagram-Auto-Responder)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Skuxblan?tab=repositories](https://github.com/Skuxblan?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Skuxblan?tab=repositories)
 
 <p align="left">
 </p>
