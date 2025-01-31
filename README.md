@@ -24,14 +24,6 @@
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
 </p>
 
-## Core Competencies <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32px" height="32px">
-
-- 🔐 **Reverse Engineering**: Advanced API analysis and integration
-- 🤖 **Automation**: Building efficient, scalable solutions
-- 🌐 **Web Development**: Full-stack applications
-- 🛡️ **Security**: Implementation of robust security measures
-- ⚡ **Optimization**: Performance tuning and system enhancement
-
 ## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px>
 
 <div align="center">
