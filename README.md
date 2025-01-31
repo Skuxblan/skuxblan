@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Skuxblan</h1>
+<div align="center">
+  <h1> 
+    Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
+  </h1>
+</div>
 
-- 🔭 I’m currently working on [Instagram-Auto-Responder](https://github.com/Skuxblan/Instagram-Auto-Responder)
+<div size='20px'> 
+  Hi! I'm Mateusz Full-Stack Developer & Reverse Engineer. 
+</div>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Skuxblan?tab=repositories)
+## About Me <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="32px" height="32px">
+
+- 🔍 I specialize in API Reverse Engineering (Instagram, Facebook)  
+- 🤖 Automation & Web Scraping  
+- 💻 JavaScript, TypeScript & Python Developer  
+- 🛡️ Passionate about cybersecurity and performance optimization  
+- ⚡ Full-Stack Development enthusiast
+
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px">
 
 <p align="left">
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## Core Competencies <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32px" height="32px">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skuxblan&show_icons=true&locale=en" alt="skuxblan" /></p>
+- 🔐 **Reverse Engineering**: Advanced API analysis and integration
+- 🤖 **Automation**: Building efficient, scalable solutions
+- 🌐 **Web Development**: Full-stack applications
+- 🛡️ **Security**: Implementation of robust security measures
+- ⚡ **Optimization**: Performance tuning and system enhancement
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skuxblan&" alt="skuxblan" /></p>
+## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skuxblan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
+
+---
